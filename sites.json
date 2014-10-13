@@ -3882,7 +3882,16 @@
             "stumbleupon.com"
         ]
     },
-
+    {
+        "name": "Subito.it",
+        "url": "https://www2.subito.it/account/delete/",
+        "difficulty": "medium",
+        "notes_it": "Inserisci la password per eliminare il tuo account.",
+        "notes": "Insert password for delete your account.",
+        "domains": [
+            "subito.it"
+        ]
+    },
     {
         "name": "SurveyMonkey",
         "url": "http://help.surveymonkey.com/contact-us",
